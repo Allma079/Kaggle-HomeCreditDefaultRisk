@@ -1,2 +1,7 @@
-# Kaggle-HomeCreditDefaultRisk
-My solution for the Home Credit Default Risk Competition hosted on Kaggle which earned a bronze Medal
+# Kaggle-Home Credit Default Risk Competition
+
+The [competition page](https://www.kaggle.com/c/home-credit-default-risk) has all the details about the data and some very interesting kernels that do some data analysis.
+This is my solution for the Home Credit Default Risk Competition hosted on Kaggle which earned a bronze medal. The Kernel that was of a big help was from Will Koehrsen. The Kernel can be found here :https://www.kaggle.com/willkoehrsen/clean-manual-feature-engineering. 
+
+There are two parts: One is the solution which was used for the bronze medal and the other one is a stacked model which has not been used because the competition was over. 
+
